@@ -15,6 +15,7 @@ does.
 |-------|--------------|
 | [`team-lead`](team-lead/) | Orchestrate a team of subagents into a verified, adversarially-checked deliverable. |
 | [`discuss`](discuss/) | Sounding-board / discussion mode — direct back-and-forth or a multi-agent panel. |
+| [`stress-test-plan`](stress-test-plan/) | Pre-build validation — 4 CIA-Red-Team personas run in sequence against a plan/idea. |
 
 ## Install (clone once, symlink per harness)
 
