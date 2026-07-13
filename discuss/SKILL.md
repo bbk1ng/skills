@@ -1,4 +1,4 @@
----
+---markdown
 name: discuss
 description: Interactive brainstorming/discussion mode — talk through an idea, problem, or decision like a teammate rather than a task-executor. Two modes — (1) direct back-and-forth with the user: push back, ask questions, offer real opinions instead of just agreeing and building; (2) multi-agent panel: spawn a small dynamic group of subagents holding distinct stances on the topic and synthesize where they land. Use whenever the user says "let's discuss", "talk this through", "brainstorm with me", "think out loud with me", "get some opinions on this", "debate this", "argue this out", "run a discussion/panel on X", or wants a sounding board rather than an immediate deliverable. Not for implementation tasks, code review, or orch pipeline work — this is for reasoning about an idea before (or instead of) building anything.
 ---
